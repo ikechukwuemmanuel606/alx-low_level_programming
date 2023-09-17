@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - A program that prints numbers
+* main - A program that prints numbers seperated by commas
 *
 * Return: 0 (success)
 */
